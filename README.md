@@ -1,4 +1,5 @@
-# Steps to run
+# React Ecommerce app
+## Steps to Run
 ```
 npm install 
 npm start
